@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457327335761",
+    "project_id": "login-da112",
+    "storage_bucket": "login-da112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457327335761:android:9df1a220258dc1ff039b70",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457327335761-ui5d3u66i5jigom5heaa98lbnfcd3osn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsgDOI83S3yGzSWk385KFXNZe6zEGsvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457327335761-ui5d3u66i5jigom5heaa98lbnfcd3osn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
